@@ -14,7 +14,7 @@ download data_train.csv and data_test.csv
 
 ### Installation
 
-Once you have the prerequisites, You can run the IPython Notebook JEDHA_projet_Onversion_rate.ipynb.
+Once you have the prerequisites, You can run the IPython Notebook JEDHA_projet_Conversion_rate.ipynb.
 
 The model could take some time to be fit, then you will have a plot for each test.
 
