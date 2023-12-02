@@ -3,4 +3,4 @@ numpy
 plotly
 datetime
 matplotlib
-scikit learn
+scikit-learn
